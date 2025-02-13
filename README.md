@@ -21,7 +21,7 @@ Getting Started:
 2.Build and Run with Docker:
   docker-compose up --build
 3.Access the Application:
-  Open your browser and go to http://localhost:<port>.
+  Open your browser and go to http://localhost:3000.
   
 Prerequisites:
 Docker and Docker Compose installed on your system.
